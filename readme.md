@@ -1,1 +1,1 @@
-Calculator created in Python.
+Simple calculator created in Python using Tkinter.
